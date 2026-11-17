@@ -1,0 +1,684 @@
+Asset-ID,Straße,Versorgungsgebiet,Werkstoff,DN (mm),Baujahr,Zustand,Kritikalität,Wahrscheinlichkeit (1–5),Folge (1–4),Risiko (1–20),Priorität,Länge (m)
+172523,High Street,Rangiora,ASBESTOS CEMENT,100.0,1958.0,Condition Data Unavailable,AA-1,4.2,4,16.8,Prio 1 – sehr hoch,13.8
+172112,West Belt,Rangiora,ASBESTOS CEMENT,100.0,1958.0,Condition Data Unavailable,AA-1,4.2,4,16.8,Prio 1 – sehr hoch,5.8
+172099,Church Street,Rangiora,ASBESTOS CEMENT,150.0,1964.0,Condition Data Unavailable,AA-1,4.2,4,16.8,Prio 1 – sehr hoch,2.8
+187716,Main Street,Oxford,ASBESTOS CEMENT,100.0,1968.0,4 Poor,AA-0,4.0,4,16.0,Prio 1 – sehr hoch,15.4
+171139,King Street,Rangiora,ASBESTOS CEMENT,375.0,1975.0,Condition Data Unavailable,AA-1,3.8,4,15.2,Prio 1 – sehr hoch,265.3
+170969,King Street,Rangiora,ASBESTOS CEMENT,450.0,1975.0,Condition Data Unavailable,AA-1,3.8,4,15.2,Prio 1 – sehr hoch,207.0
+171059,Elizabeth Street,Rangiora,ASBESTOS CEMENT,100.0,1984.0,Condition Data Unavailable,AA-1,3.8,4,15.2,Prio 1 – sehr hoch,178.1
+173758,Southbrook Road,Rangiora,ASBESTOS CEMENT,150.0,1983.0,Condition Data Unavailable,AA-1,3.8,4,15.2,Prio 1 – sehr hoch,166.6
+173303,Southbrook Road,Rangiora,ASBESTOS CEMENT,150.0,1983.0,Condition Data Unavailable,AA-1,3.8,4,15.2,Prio 1 – sehr hoch,145.0
+171975,Southbrook Road,Rangiora,ASBESTOS CEMENT,150.0,1978.0,Condition Data Unavailable,AA-1,3.8,4,15.2,Prio 1 – sehr hoch,122.6
+187117,Ohoka Road And Peraki Street,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,AA-1,3.8,4,15.2,Prio 1 – sehr hoch,112.1
+187015,Ohoka Road,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,AA-1,3.8,4,15.2,Prio 1 – sehr hoch,106.5
+170749,River Road,Rangiora,ASBESTOS CEMENT,300.0,1979.0,Condition Data Unavailable,AA-1,3.8,4,15.2,Prio 1 – sehr hoch,98.6
+187448,Main Street,Oxford,ASBESTOS CEMENT,150.0,1968.0,Condition Data Unavailable,AA-1,3.8,4,15.2,Prio 1 – sehr hoch,92.4
+186859,Ohoka Road,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,AA-1,3.8,4,15.2,Prio 1 – sehr hoch,90.3
+188983,Water Supply Pipe Network Main.  200Mm Ac.  146 Ohoka Road Kaiapoi.,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,AA-1,3.8,4,15.2,Prio 1 – sehr hoch,82.9
+188167,Main Street,Oxford,ASBESTOS CEMENT,150.0,1968.0,Condition Data Unavailable,AA-1,3.8,4,15.2,Prio 1 – sehr hoch,77.3
+173757,Southbrook Road,Rangiora,ASBESTOS CEMENT,150.0,1983.0,Condition Data Unavailable,AA-1,3.8,4,15.2,Prio 1 – sehr hoch,70.6
+187111,Ohoka Road,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,AA-1,3.8,4,15.2,Prio 1 – sehr hoch,67.3
+188115,Main Street,Oxford,ASBESTOS CEMENT,150.0,1968.0,Condition Data Unavailable,AA-1,3.8,4,15.2,Prio 1 – sehr hoch,66.7
+187378,Water Supply Pipe Network Main.  Ohoka Road Kaiapoi (Located Outside 1 Peraki Street),Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,AA-1,3.8,4,15.2,Prio 1 – sehr hoch,55.0
+188047,Williams Street Under Bridge,Kaiapoi,ASBESTOS CEMENT,250.0,1978.0,Condition Data Unavailable,AA-1,3.8,4,15.2,Prio 1 – sehr hoch,53.5
+192601,Ohoka Road,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,AA-1,3.8,4,15.2,Prio 1 – sehr hoch,48.2
+188606,Ohoka Road,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,AA-1,3.8,4,15.2,Prio 1 – sehr hoch,45.9
+170843,High Street,Rangiora,ASBESTOS CEMENT,100.0,1981.0,Condition Data Unavailable,AA-2,3.8,4,15.2,Prio 1 – sehr hoch,42.2
+170748,River Road,Rangiora,ASBESTOS CEMENT,200.0,1979.0,Condition Data Unavailable,AA-1,3.8,4,15.2,Prio 1 – sehr hoch,41.5
+170781,High Street,Rangiora,ASBESTOS CEMENT,100.0,1981.0,Condition Data Unavailable,AA-1,3.8,4,15.2,Prio 1 – sehr hoch,36.3
+172097,River Road,Rangiora,ASBESTOS CEMENT,300.0,1979.0,Condition Data Unavailable,AA-1,3.8,4,15.2,Prio 1 – sehr hoch,34.0
+171305,Southbrook Road,Rangiora,ASBESTOS CEMENT,150.0,1978.0,Condition Data Unavailable,AA-1,3.8,4,15.2,Prio 1 – sehr hoch,32.5
+189175,Cam Road,Kaiapoi,ASBESTOS CEMENT,150.0,1978.0,Condition Data Unavailable,AA-1,3.8,4,15.2,Prio 1 – sehr hoch,31.7
+173137,Southbrook Road,Rangiora,ASBESTOS CEMENT,150.0,1983.0,Condition Data Unavailable,AA-1,3.8,4,15.2,Prio 1 – sehr hoch,30.7
+191426,Williams Street,Kaiapoi,ASBESTOS CEMENT,250.0,1978.0,Condition Data Unavailable,AA-2,3.8,4,15.2,Prio 1 – sehr hoch,23.4
+190357,Williams Street,Kaiapoi,ASBESTOS CEMENT,250.0,1978.0,Condition Data Unavailable,AA-1,3.8,4,15.2,Prio 1 – sehr hoch,21.7
+171304,Southbrook Road,Rangiora,ASBESTOS CEMENT,150.0,1978.0,Condition Data Unavailable,AA-1,3.8,4,15.2,Prio 1 – sehr hoch,21.0
+187569,Main Street,Oxford,ASBESTOS CEMENT,150.0,1968.0,Condition Data Unavailable,AA-1,3.8,4,15.2,Prio 1 – sehr hoch,20.3
+172551,Ayers Street,Rangiora,ASBESTOS CEMENT,450.0,1975.0,Condition Data Unavailable,AA-0,3.8,4,15.2,Prio 1 – sehr hoch,19.2
+188364,Williams Street,Kaiapoi,ASBESTOS CEMENT,150.0,1978.0,Condition Data Unavailable,AA-1,3.8,4,15.2,Prio 1 – sehr hoch,15.2
+187010,Williams Street,Kaiapoi,ASBESTOS CEMENT,150.0,1978.0,Condition Data Unavailable,AA-1,3.8,4,15.2,Prio 1 – sehr hoch,14.7
+187380,Ohoka Road,Kaiapoi,ASBESTOS CEMENT,150.0,1978.0,Condition Data Unavailable,AA-1,3.8,4,15.2,Prio 1 – sehr hoch,14.3
+192789,Williams Street,Kaiapoi,ASBESTOS CEMENT,250.0,1978.0,Condition Data Unavailable,AA-1,3.8,4,15.2,Prio 1 – sehr hoch,14.0
+192182,Williams Street,Kaiapoi,ASBESTOS CEMENT,100.0,1978.0,Condition Data Unavailable,AA-1,3.8,4,15.2,Prio 1 – sehr hoch,13.0
+187904,Water Supply Pipe Network Main.  200Mm Ac.  152 Ohoka Road Kaiapoi.,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,AA-1,3.8,4,15.2,Prio 1 – sehr hoch,12.0
+191555,Main Street,Oxford,ASBESTOS CEMENT,150.0,1968.0,Condition Data Unavailable,AA-1,3.8,4,15.2,Prio 1 – sehr hoch,10.8
+191994,Ohoka Road And Peraki Street,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,AA-1,3.8,4,15.2,Prio 1 – sehr hoch,10.4
+187536,Water Supply Pipe Network Main.  200Mm Ac.  152 Ohoka Road Kaiapoi.,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,AA-1,3.8,4,15.2,Prio 1 – sehr hoch,10.1
+172377,Ayers Street,Rangiora,ASBESTOS CEMENT,450.0,1975.0,Condition Data Unavailable,AA-1,3.8,4,15.2,Prio 1 – sehr hoch,9.2
+173673,Percival Street,Rangiora,ASBESTOS CEMENT,100.0,1978.0,Condition Data Unavailable,AA-1,3.8,4,15.2,Prio 1 – sehr hoch,8.1
+171973,Southbrook Road,Rangiora,ASBESTOS CEMENT,150.0,1978.0,Condition Data Unavailable,AA-1,3.8,4,15.2,Prio 1 – sehr hoch,7.0
+192263,Ohoka Road,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,AA-1,3.8,4,15.2,Prio 1 – sehr hoch,5.9
+172098,River Road,Rangiora,ASBESTOS CEMENT,300.0,1979.0,Condition Data Unavailable,AA-1,3.8,4,15.2,Prio 1 – sehr hoch,5.4
+171974,Southbrook Road,Rangiora,ASBESTOS CEMENT,150.0,1978.0,Condition Data Unavailable,AA-1,3.8,4,15.2,Prio 1 – sehr hoch,4.5
+192875,Ohoka Road And Otaki Street,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,AA-1,3.8,4,15.2,Prio 1 – sehr hoch,3.8
+186945,Raven Quay,Kaiapoi,ASBESTOS CEMENT,100.0,1978.0,Condition Data Unavailable,AA-1,3.8,4,15.2,Prio 1 – sehr hoch,1.9
+172603,Southbrook Road,Rangiora,ASBESTOS CEMENT,150.0,1978.0,Condition Data Unavailable,AA-1,3.8,4,15.2,Prio 1 – sehr hoch,1.0
+170857,Southbrook Road,Rangiora,ASBESTOS CEMENT,150.0,1978.0,2 Good,AA-1,3.6,4,14.4,Prio 1 – sehr hoch,142.5
+186999,Mansfield Drive,Kaiapoi,ASBESTOS CEMENT,100.0,1990.0,Condition Data Unavailable,AA-1,3.4,4,13.6,Prio 1 – sehr hoch,73.4
+190309,Raven Quay,Kaiapoi,GALVANISED STEEL,200.0,1978.0,Condition Data Unavailable,AA-1,3.4,4,13.6,Prio 1 – sehr hoch,53.4
+172376,Ayers Street,Rangiora,Steel,525.0,1975.0,Condition Data Unavailable,AA-1,3.4,4,13.6,Prio 1 – sehr hoch,20.9
+187092,Camleigh Close,Kaiapoi,GALVANISED IRON,200.0,1978.0,3 Moderate - Average,AA-1,3.4,4,13.6,Prio 1 – sehr hoch,14.1
+188595,Holland Drive,Kaiapoi,ASBESTOS CEMENT,200.0,1987.0,Condition Data Unavailable,AA-1,3.4,4,13.6,Prio 1 – sehr hoch,10.5
+172287,Ayers Street,Rangiora,Steel,450.0,1975.0,Condition Data Unavailable,AA-1,3.4,4,13.6,Prio 1 – sehr hoch,9.8
+171601,West Belt,Rangiora,ASBESTOS CEMENT,100.0,1958.0,Condition Data Unavailable,A-1,4.2,3,12.6,Prio 1 – sehr hoch,31.2
+172527,Alfred Street,Rangiora,ASBESTOS CEMENT,100.0,1962.0,Condition Data Unavailable,A-2,4.2,3,12.6,Prio 1 – sehr hoch,3.2
+172580,King Street,Rangiora,STEEL SPIRAL RIVETTED,100.0,1931.0,Condition Data Unavailable,A-1,4.2,3,12.6,Prio 1 – sehr hoch,0.8
+170812,Victoria Street,Rangiora,PVC,100.0,1962.0,Condition Data Unavailable,AA-1,3.0,4,12.0,Prio 1 – sehr hoch,66.2
+187169,Waikuku Beach Road,Waikuku Beach,GALVANISED STEEL,150.0,1992.0,Condition Data Unavailable,AA-1,3.0,4,12.0,Prio 1 – sehr hoch,12.5
+173586,Northbrook Road,Rangiora,PVC,50.0,1963.0,Condition Data Unavailable,AA-1,3.0,4,12.0,Prio 1 – sehr hoch,12.0
+188836,Kings Avenue,Waikuku Beach,GALVANISED STEEL,150.0,1992.0,Condition Data Unavailable,AA-1,3.0,4,12.0,Prio 1 – sehr hoch,6.0
+187446,Bay Road,Oxford,GALVANISED STEEL,150.0,1991.0,Condition Data Unavailable,AA-1,3.0,4,12.0,Prio 1 – sehr hoch,4.2
+192916,Kings Avenue,Waikuku Beach,Steel,150.0,1992.0,Condition Data Unavailable,AA-1,3.0,4,12.0,Prio 1 – sehr hoch,2.9
+189132,Kings Avenue,Waikuku Beach,GALVANISED STEEL,150.0,1992.0,Condition Data Unavailable,AA-1,3.0,4,12.0,Prio 1 – sehr hoch,1.0
+187823,Kings Avenue,Waikuku Beach,Steel,150.0,1992.0,Condition Data Unavailable,AA-1,3.0,4,12.0,Prio 1 – sehr hoch,0.3
+170751,West Belt,Rangiora,ASBESTOS CEMENT,450.0,1979.0,Condition Data Unavailable,A-2,3.8,3,11.4,Prio 1 – sehr hoch,566.3
+170826,Kingsbury Avenue,Rangiora,ASBESTOS CEMENT,450.0,1979.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,407.2
+187429,Main North Rd (Sh 1),Woodend,ASBESTOS CEMENT,200.0,1976.0,Condition Data Unavailable,A-2,3.8,3,11.4,Prio 1 – sehr hoch,386.7
+171231,West Belt,Rangiora,ASBESTOS CEMENT,450.0,1979.0,Condition Data Unavailable,A-2,3.8,3,11.4,Prio 1 – sehr hoch,383.8
+187317,Main Street,Oxford,ASBESTOS CEMENT,150.0,1968.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,340.9
+187722,Main Street,Oxford,ASBESTOS CEMENT,150.0,1968.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,321.5
+170838,King Street,Rangiora,ASBESTOS CEMENT,450.0,1975.0,Condition Data Unavailable,A-2,3.8,3,11.4,Prio 1 – sehr hoch,318.1
+171350,King Street,Rangiora,ASBESTOS CEMENT,300.0,1975.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,278.3
+187315,Main Street,Oxford,ASBESTOS CEMENT,150.0,1968.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,273.1
+170700,King Street,Rangiora,ASBESTOS CEMENT,375.0,1975.0,Condition Data Unavailable,A-2,3.8,3,11.4,Prio 1 – sehr hoch,237.0
+188806,Main North Rd (Sh 1),Woodend,ASBESTOS CEMENT,150.0,1976.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,217.3
+187566,Main Street,Oxford,ASBESTOS CEMENT,150.0,1968.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,210.1
+170689,Kingsbury Avenue,Rangiora,ASBESTOS CEMENT,450.0,1979.0,Condition Data Unavailable,A-2,3.8,3,11.4,Prio 1 – sehr hoch,195.0
+187861,Main North Rd (Sh 1),Woodend,ASBESTOS CEMENT,100.0,1978.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,184.9
+171222,King Street,Rangiora,ASBESTOS CEMENT,450.0,1975.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,144.3
+187178,Main Street,Oxford,ASBESTOS CEMENT,150.0,1968.0,3 Moderate - Average,A-1,3.8,3,11.4,Prio 1 – sehr hoch,139.8
+171167,Good Street,Rangiora,ASBESTOS CEMENT,150.0,1981.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,133.1
+171868,West Belt,Rangiora,ASBESTOS CEMENT,450.0,1979.0,Condition Data Unavailable,A-2,3.8,3,11.4,Prio 1 – sehr hoch,114.6
+187703,Main North Rd (Sh 1),Woodend,ASBESTOS CEMENT,100.0,1978.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,114.0
+189610,Main Street,Oxford,ASBESTOS CEMENT,150.0,1968.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,106.9
+170801,River Road,Rangiora,ASBESTOS CEMENT,450.0,1979.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,99.6
+186947,Sewell Street,Kaiapoi,ASBESTOS CEMENT,375.0,1978.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,87.1
+192325,Main Street,Oxford,ASBESTOS CEMENT,150.0,1968.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,79.7
+188274,Main North Rd (Sh 1),Woodend,ASBESTOS CEMENT,150.0,1976.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,78.4
+187991,Sewell Street,Kaiapoi,ASBESTOS CEMENT,375.0,1978.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,77.1
+171269,River Road,Rangiora,ASBESTOS CEMENT,450.0,1979.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,69.1
+170970,Blake Street,Rangiora,ASBESTOS CEMENT,150.0,1981.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,67.4
+171536,South Belt,Rangiora,ASBESTOS CEMENT,150.0,1971.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,66.2
+187471,Sewell Street,Kaiapoi,ASBESTOS CEMENT,375.0,1978.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,62.2
+188752,High Street,Oxford,ASBESTOS CEMENT,100.0,1968.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,57.2
+170677,Blake Street,Rangiora,ASBESTOS CEMENT,200.0,1981.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,55.7
+187846,Eders Road,Woodend,ASBESTOS CEMENT,100.0,1979.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,55.0
+189195,Main Street,Oxford,ASBESTOS CEMENT,150.0,1968.0,3 Moderate - Average,A-1,3.8,3,11.4,Prio 1 – sehr hoch,50.5
+187992,Sewell Street,Kaiapoi,ASBESTOS CEMENT,375.0,1978.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,44.9
+171870,King Street,Rangiora,ASBESTOS CEMENT,300.0,1975.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,42.9
+187179,Main Street,Oxford,ASBESTOS CEMENT,150.0,1968.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,38.4
+170718,South Belt,Rangiora,ASBESTOS CEMENT,150.0,1975.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,35.6
+187466,Sewell Street,Kaiapoi,ASBESTOS CEMENT,375.0,1978.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,29.2
+172552,Ayers Street,Rangiora,ASBESTOS CEMENT,450.0,1975.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,27.9
+192790,Courtenay Drive,Kaiapoi,ASBESTOS CEMENT,200.0,1979.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,27.5
+192721,Petries Road,Woodend,ASBESTOS CEMENT,150.0,1976.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,26.8
+187540,Darnley Square Wtp - Site Pipework From Reservoir To Pump Room,Kaiapoi,ASBESTOS CEMENT,375.0,1978.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,24.7
+173620,Wales Street,Rangiora,ASBESTOS CEMENT,150.0,1983.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,24.5
+191127,.  Intersection Of Williams St And Ohoka Rd Kaiapoi.,Kaiapoi,ASBESTOS CEMENT,150.0,1978.0,Condition Data Unavailable,A-2,3.8,3,11.4,Prio 1 – sehr hoch,22.8
+192021,Ohoka Road,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,A-2,3.8,3,11.4,Prio 1 – sehr hoch,22.6
+188805,Main North Rd (Sh1) (Wnd-Amb),Woodend,ASBESTOS CEMENT,150.0,1978.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,22.2
+171409,Ayers Street,Rangiora,ASBESTOS CEMENT,450.0,1975.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,21.9
+187855,Main North Rd (Sh 1),Woodend,ASBESTOS CEMENT,100.0,1976.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,19.5
+188269,Main North Rd (Sh 1),Woodend,ASBESTOS CEMENT,200.0,1976.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,19.5
+187091,Smith Street,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,18.2
+171542,South Belt,Rangiora,ASBESTOS CEMENT,150.0,1975.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,18.2
+171439,Charles Street,Rangiora,ASBESTOS CEMENT,100.0,1971.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,17.2
+186908,Main North Rd (Sh 1),Woodend,ASBESTOS CEMENT,150.0,1976.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,16.9
+171040,West Belt,Rangiora,GALVANISED STEEL,50.0,1962.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,16.7
+172553,Ayers Street,Rangiora,ASBESTOS CEMENT,450.0,1975.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,16.0
+189193,Main Street,Oxford,ASBESTOS CEMENT,100.0,1968.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,15.1
+187847,Main North Rd (Sh 1),Woodend,ASBESTOS CEMENT,100.0,1978.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,14.8
+189194,Main Street,Oxford,ASBESTOS CEMENT,100.0,1968.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,14.6
+188105,Main Street,Oxford,ASBESTOS CEMENT,100.0,1968.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,13.1
+172288,Ayers Street,Rangiora,ASBESTOS CEMENT,450.0,1975.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,12.7
+192340,Main Street,Oxford,ASBESTOS CEMENT,150.0,1968.0,Condition Data Unavailable,A-0,3.8,3,11.4,Prio 1 – sehr hoch,10.8
+171543,South Belt,Rangiora,ASBESTOS CEMENT,150.0,1971.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,8.7
+173481,Ayers Street Rangiora.,Rangiora,ASBESTOS CEMENT,450.0,1975.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,4.1
+190493,Main Street,Oxford,ASBESTOS CEMENT,150.0,1968.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,3.3
+171881,South Belt,Rangiora,ASBESTOS CEMENT,150.0,1975.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,3.0
+173878,Ayers Street Rangiora.,Rangiora,ASBESTOS CEMENT,450.0,1975.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,2.5
+170736,South Belt,Rangiora,ASBESTOS CEMENT,50.0,1970.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,2.3
+192228,Island Road,Kaiapoi,ASBESTOS CEMENT,100.0,1982.0,Condition Data Unavailable,A-1,3.8,3,11.4,Prio 1 – sehr hoch,1.9
+171242,King Street,Rangiora,ASBESTOS CEMENT,450.0,1975.0,2 Good,A-2,3.6,3,10.8,Prio 1 – sehr hoch,213.5
+189208,Bush Road,Oxford No 2,PVC,150.0,1984.0,Condition Data Unavailable,AA-1,2.6,4,10.4,Prio 1 – sehr hoch,538.4
+187414,Sladdens Bush Road,Oxford No 2,PVC,200.0,1984.0,3 Moderate - Average,AA-1,2.6,4,10.4,Prio 1 – sehr hoch,512.4
+187627,Bush Road,Oxford No 2,PVC,200.0,1984.0,Condition Data Unavailable,AA-1,2.6,4,10.4,Prio 1 – sehr hoch,403.2
+186889,Bush Road,Oxford No 2,PVC,200.0,1984.0,Condition Data Unavailable,AA-1,2.6,4,10.4,Prio 1 – sehr hoch,389.5
+188144,Bay Road,Oxford No 2,PVC,150.0,1985.0,Condition Data Unavailable,AA-1,2.6,4,10.4,Prio 1 – sehr hoch,343.6
+187064,Bush Road,Oxford No 2,PVC,150.0,1984.0,Condition Data Unavailable,AA-1,2.6,4,10.4,Prio 1 – sehr hoch,334.1
+187139,Bush Road,Oxford No 2,PVC,150.0,1984.0,Condition Data Unavailable,AA-1,2.6,4,10.4,Prio 1 – sehr hoch,327.2
+188873,Bush Road,Oxford No 2,PVC,150.0,1984.0,Condition Data Unavailable,AA-1,2.6,4,10.4,Prio 1 – sehr hoch,322.0
+187152,Woodside Road,Oxford No 2,PVC,200.0,1984.0,Condition Data Unavailable,AA-1,2.6,4,10.4,Prio 1 – sehr hoch,270.9
+187404,Mill Road,Oxford No 2,PVC,150.0,1984.0,Condition Data Unavailable,AA-1,2.6,4,10.4,Prio 1 – sehr hoch,240.2
+188872,Bush Road,Oxford No 2,PVC,150.0,1984.0,Condition Data Unavailable,AA-1,2.6,4,10.4,Prio 1 – sehr hoch,201.0
+187774,Mill Road,Oxford No 2,PVC,150.0,1985.0,Condition Data Unavailable,AA-1,2.6,4,10.4,Prio 1 – sehr hoch,185.0
+188874,Bush Road,Oxford No 2,PVC,150.0,1984.0,Condition Data Unavailable,AA-1,2.6,4,10.4,Prio 1 – sehr hoch,182.9
+187626,Bush Road,Oxford No 2,PVC,200.0,1984.0,Condition Data Unavailable,AA-1,2.6,4,10.4,Prio 1 – sehr hoch,178.5
+187926,Mill Road,Oxford No 2,PVC,150.0,1985.0,Condition Data Unavailable,AA-1,2.6,4,10.4,Prio 1 – sehr hoch,167.7
+188871,Bush Road,Oxford No 2,PVC,150.0,1984.0,Condition Data Unavailable,AA-1,2.6,4,10.4,Prio 1 – sehr hoch,166.1
+171244,High Street,Rangiora,PVC,200.0,1989.0,5 Very Poor,AA-2,2.6,4,10.4,Prio 1 – sehr hoch,114.7
+186878,Bush Road,Oxford No 2,PVC,150.0,1984.0,Condition Data Unavailable,AA-1,2.6,4,10.4,Prio 1 – sehr hoch,103.7
+188140,Bush Road,Oxford No 2,PVC,150.0,1984.0,Condition Data Unavailable,AA-1,2.6,4,10.4,Prio 1 – sehr hoch,96.3
+187305,Bush Road,Oxford No 2,PVC,200.0,1984.0,Condition Data Unavailable,AA-1,2.6,4,10.4,Prio 1 – sehr hoch,96.2
+170851,High Street,Rangiora,PVC,200.0,1989.0,5 Very Poor,AA-2,2.6,4,10.4,Prio 1 – sehr hoch,74.8
+189147,Beach Cres (Pte) Waikuku Beach (100 Mm Upvc Grey Novapipe).,Waikuku Beach,PVC,100.0,1981.0,Condition Data Unavailable,AA-1,2.6,4,10.4,Prio 1 – sehr hoch,72.1
+187406,Mill Road,Oxford No 2,PVC,150.0,1985.0,Condition Data Unavailable,AA-1,2.6,4,10.4,Prio 1 – sehr hoch,54.0
+188198,Bush Road,Oxford No 2,PVC,150.0,1984.0,Condition Data Unavailable,AA-1,2.6,4,10.4,Prio 1 – sehr hoch,40.6
+187771,Bush Road,Oxford No 2,PVC,200.0,1984.0,Condition Data Unavailable,AA-1,2.6,4,10.4,Prio 1 – sehr hoch,38.7
+188200,Mill Road,Oxford No 2,PVC,150.0,1985.0,Condition Data Unavailable,AA-1,2.6,4,10.4,Prio 1 – sehr hoch,35.8
+187772,Bush Road,Oxford No 2,PVC,200.0,1984.0,Condition Data Unavailable,AA-1,2.6,4,10.4,Prio 1 – sehr hoch,35.1
+171343,Blackett Street,Rangiora,PVC,50.0,1979.0,Condition Data Unavailable,AA-1,2.6,4,10.4,Prio 1 – sehr hoch,19.4
+188796,Rangiora Woodend Road,Woodend,PVC,50.0,1982.0,Condition Data Unavailable,AA-1,2.6,4,10.4,Prio 1 – sehr hoch,18.7
+188227,Bush Road,Oxford No 2,PVC,150.0,1984.0,Condition Data Unavailable,AA-1,2.6,4,10.4,Prio 1 – sehr hoch,14.8
+192505,Sewell Street,Kaiapoi,PVC,100.0,1978.0,Condition Data Unavailable,AA-1,2.6,4,10.4,Prio 1 – sehr hoch,14.6
+171799,Southbrook Road,Rangiora,PVC,50.0,1981.0,Condition Data Unavailable,AA-1,2.6,4,10.4,Prio 1 – sehr hoch,14.0
+187656,Bush Road,Oxford No 2,PVC,150.0,1984.0,Condition Data Unavailable,AA-1,2.6,4,10.4,Prio 1 – sehr hoch,13.8
+171524,Oxford Road,Rangiora,PVC,50.0,1974.0,Condition Data Unavailable,AA-1,2.6,4,10.4,Prio 1 – sehr hoch,5.9
+173476,Townsend Road,Rangiora,STEEL CONCRETE LINED,550.0,2011.0,Condition Data Unavailable,AA-1,2.6,4,10.4,Prio 1 – sehr hoch,4.9
+187193,Swannanoa Road,Mandeville,PVC,80.0,1984.0,Condition Data Unavailable,AA-1,2.6,4,10.4,Prio 1 – sehr hoch,3.2
+192508,Sewell Street,Kaiapoi,PVC-U,50.0,1978.0,Condition Data Unavailable,AA-1,2.6,4,10.4,Prio 1 – sehr hoch,2.9
+171478,High Street,Rangiora,DUCTILE IRON,200.0,2014.0,Condition Data Unavailable,AA-1,2.6,4,10.4,Prio 1 – sehr hoch,2.7
+187192,Swannanoa Road,Mandeville,PVC,80.0,1984.0,Condition Data Unavailable,AA-1,2.6,4,10.4,Prio 1 – sehr hoch,2.7
+186934,Oxford Road,Cust,PVC,50.0,1979.0,Condition Data Unavailable,AA-1,2.6,4,10.4,Prio 1 – sehr hoch,1.5
+188093,Bay Road,Oxford No 2,PVC,150.0,1985.0,Condition Data Unavailable,AA-1,2.6,4,10.4,Prio 1 – sehr hoch,1.4
+188136,Bush Road,Oxford No 2,PVC,200.0,1984.0,Condition Data Unavailable,AA-1,2.6,4,10.4,Prio 1 – sehr hoch,1.1
+173197,Blake Street,Rangiora,ASBESTOS CEMENT,150.0,1981.0,1 Very Good,A-1,3.4,3,10.2,Prio 1 – sehr hoch,35.5
+173637,Blake Street,Rangiora,ASBESTOS CEMENT,150.0,1981.0,1 Very Good,A-1,3.4,3,10.2,Prio 1 – sehr hoch,6.4
+172696,Blake Street,Rangiora,ASBESTOS CEMENT,150.0,1981.0,1 Very Good,A-1,3.4,3,10.2,Prio 1 – sehr hoch,2.7
+188197,Woodside Road,Oxford No 2,PVC,200.0,1984.0,2 Good,AA-1,2.4,4,9.6,Prio 2 – hoch,444.9
+187562,Bush Road,Oxford No 2,PVC,200.0,1984.0,2 Good,AA-1,2.4,4,9.6,Prio 2 – hoch,216.7
+187405,Mill Road,Oxford No 2,PVC,150.0,1985.0,2 Good,AA-1,2.4,4,9.6,Prio 2 – hoch,158.8
+187062,Bush Road,Oxford No 2,PVC,150.0,1984.0,2 Good,AA-1,2.4,4,9.6,Prio 2 – hoch,146.4
+188879,Mill Road,Oxford No 2,PVC,150.0,1985.0,2 Good,AA-1,2.4,4,9.6,Prio 2 – hoch,98.7
+190096,Tram Road,Mandeville,PVC,150.0,2005.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,856.5
+188862,Tram Road,Mandeville,PVC-U,150.0,2005.0,3 Moderate - Average,AA-1,2.2,4,8.8,Prio 2 – hoch,663.1
+187606,Tram Road,Mandeville,PVC,150.0,2005.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,612.1
+188784,Davis Road,Summerhill,PVC,80.0,1990.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,552.9
+188407,Bay Road,Oxford,PVC,200.0,1991.0,Condition Data Unavailable,AA-2,2.2,4,8.8,Prio 2 – hoch,390.5
+188895,Tram Road,Mandeville,PVC,150.0,2005.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,375.7
+173459,Johns Road,Rangiora,PVC,200.0,1993.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,369.8
+187636,Tram Road,Mandeville,PVC,150.0,2005.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,347.7
+190390,Tram Road,Mandeville,PVC,150.0,2005.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,342.0
+192526,Davis Road,Summerhill,PVC,80.0,1990.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,332.2
+172366,Oxford Road,Rangiora,PVC,200.0,2006.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,272.7
+192299,Tram Road,Mandeville,PVC,150.0,2005.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,269.5
+187184,Bay Road,Oxford,PVC,200.0,1991.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,261.0
+187960,Waikuku Beach Road,Waikuku Beach,PVC,150.0,1992.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,246.0
+188210,Tram Road,Mandeville,PVC,150.0,2005.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,241.5
+171216,High Street,Rangiora,PVC,50.0,1989.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,218.3
+190389,Two Chain Road,Mandeville,PVC,200.0,2005.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,197.5
+173440,Flaxton Road,Rangiora,PVC,150.0,1998.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,173.2
+189133,Waikuku Beach Road,Waikuku Beach,PVC,150.0,1992.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,171.9
+171306,Percival Street,Rangiora,PVC,150.0,2006.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,154.8
+190732,Lees Road,Kaiapoi,PVC,150.0,2003.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,144.2
+189933,Bay Road,Oxford,PVC,200.0,1991.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,142.9
+170909,Oxford Road,Rangiora,PVC,200.0,2006.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,127.2
+170676,Durham Street,Rangiora,PVC,100.0,1989.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,119.3
+172605,High Street,Rangiora,PVC,200.0,1996.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,112.2
+191462,Williams Street,Kaiapoi,PVC,200.0,2003.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,108.5
+188740,Bay Road,Oxford,PVC,200.0,1991.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,101.2
+170714,Ashley Street,Rangiora,PVC,150.0,1995.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,97.5
+172108,High Street,Rangiora,ASBESTOS CEMENT,50.0,1962.0,4 Poor,B,4.4,2,8.8,Prio 2 – hoch,97.0
+172917,Northbrook Road,Rangiora,PVC,200.0,2004.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,94.2
+188700,Bay Road,Oxford,PVC,200.0,1991.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,91.7
+187066,Bay Road,Oxford No 2,PVC,150.0,1991.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,89.2
+170716,High Street,Rangiora,PVC,200.0,1989.0,Condition Data Unavailable,AA-2,2.2,4,8.8,Prio 2 – hoch,66.6
+173437,Ivory Street,Rangiora,PVC,100.0,1989.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,66.2
+171672,High Street,Rangiora,PVC,200.0,1989.0,Condition Data Unavailable,AA-2,2.2,4,8.8,Prio 2 – hoch,66.1
+171143,High Street,Rangiora,PVC,200.0,1989.0,Condition Data Unavailable,AA-2,2.2,4,8.8,Prio 2 – hoch,65.1
+171376,Good Street,Rangiora,PVC,100.0,1989.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,63.4
+190730,Main North Road,Kaiapoi,PVC,200.0,2003.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,58.7
+170995,Ashley Street,Rangiora,PVC,150.0,1995.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,58.4
+188785,Davis Road,Summerhill,PVC,80.0,1990.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,55.4
+189332,Sewell Street,Kaiapoi,PVC,50.0,2004.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,55.3
+189024,Kings Avenue,Waikuku Beach,PVC,150.0,1992.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,54.6
+190367,Charles Street,Kaiapoi,PE - HIGH DENSITY,20.0,1978.0,3 Moderate - Average,AA-1,2.2,4,8.8,Prio 2 – hoch,52.7
+171671,High Street,Rangiora,PVC,200.0,1989.0,Condition Data Unavailable,AA-2,2.2,4,8.8,Prio 2 – hoch,44.8
+170853,High Street,Rangiora,PVC,200.0,1996.0,Condition Data Unavailable,AA-2,2.2,4,8.8,Prio 2 – hoch,43.0
+170908,Oxford Road,Rangiora,PVC,200.0,2006.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,42.8
+191803,Williams Street,Kaiapoi,PVC,200.0,2003.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,41.8
+171245,King Street,Rangiora,PVC,100.0,1989.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,39.9
+192615,Bay Road,Oxford,PVC,200.0,1991.0,Condition Data Unavailable,AA-2,2.2,4,8.8,Prio 2 – hoch,38.1
+188918,Tram Road,Mandeville,PVC,150.0,2005.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,36.3
+172421,High Street,Rangiora,PVC,200.0,1996.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,35.6
+190391,Two Chain Road,Mandeville,PVC,150.0,2005.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,32.3
+192525,Tram Road,Mandeville,PVC-U,150.0,2005.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,30.7
+171761,Ashley Street,Rangiora,PVC,150.0,2005.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,28.3
+172057,Southbrook Road,Rangiora,DUCTILE IRON,150.0,2015.0,1 Very Good,AA-1,2.2,4,8.8,Prio 2 – hoch,27.9
+171673,High Street,Rangiora,PVC,200.0,1996.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,26.6
+170946,Ashley Street,Rangiora,PVC,150.0,2005.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,25.1
+171696,Lineside Road,Rangiora,PVC,100.0,1993.0,Condition Data Unavailable,AA-0,2.2,4,8.8,Prio 2 – hoch,24.8
+192993,Bay Road,Oxford,PVC,200.0,1991.0,Condition Data Unavailable,AA-2,2.2,4,8.8,Prio 2 – hoch,24.7
+192198,Kings Avenue,Waikuku Beach,PVC,150.0,1992.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,23.9
+173441,Flaxton Road,Rangiora,PVC,150.0,1998.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,23.5
+191455,Two Chain Road,Mandeville,PVC,200.0,2005.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,23.1
+171423,Lineside Road,Rangiora,PVC,150.0,1993.0,Condition Data Unavailable,AA-0,2.2,4,8.8,Prio 2 – hoch,22.7
+188661,Tram Road,Mandeville,PVC,150.0,2005.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,20.6
+171005,Ivory Street,Rangiora,PVC,100.0,1994.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,19.3
+171544,High Street,Rangiora,PVC,200.0,1996.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,19.1
+171213,High Street,Rangiora,PVC,100.0,1996.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,19.1
+173124,West Belt,Rangiora,ASBESTOS CEMENT,100.0,1958.0,4 Poor,B,4.4,2,8.8,Prio 2 – hoch,18.9
+190399,Williams Street And Dale Street,Kaiapoi,PVC,200.0,2003.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,18.6
+171882,High Street,Rangiora,PVC,200.0,1996.0,Condition Data Unavailable,AA-0,2.2,4,8.8,Prio 2 – hoch,18.3
+188067,Tram Road,Mandeville,PVC,80.0,1999.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,17.1
+189938,Sewell Street,Kaiapoi,PE - HIGH DENSITY,50.0,1978.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,16.9
+171000,High Street,Rangiora,PVC,200.0,1996.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,16.8
+171530,High Street,Rangiora,PVC,200.0,1989.0,Condition Data Unavailable,AA-2,2.2,4,8.8,Prio 2 – hoch,16.3
+187605,Tram Road,Mandeville,PVC,150.0,2005.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,15.7
+171748,Southbrook Road,Rangiora,PVC,100.0,2006.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,14.9
+171022,Flaxton Road,Rangiora,PVC,150.0,1993.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,14.8
+188211,Tram Road,Mandeville,PVC,150.0,2005.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,14.7
+170971,High Street,Rangiora,PVC,200.0,1989.0,Condition Data Unavailable,AA-2,2.2,4,8.8,Prio 2 – hoch,14.7
+187793,West Eyreton Wtp - Pipe From Tanks 1 And 2 To Pump Building,West Eyreton,PVC,100.0,2003.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,14.7
+173528,East Belt,Rangiora,PVC,150.0,2003.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,14.5
+188360,Ohoka Road,Kaiapoi,PE - HIGH DENSITY,40.0,1978.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,14.5
+188368,Ohoka Road,Kaiapoi,PE - HIGH DENSITY,40.0,1978.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,14.3
+187199,Hilton St,Kaiapoi,PE - HIGH DENSITY,40.0,1978.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,14.3
+171529,Ashley Street,Rangiora,PVC,150.0,1992.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,14.3
+171979,High Street,Rangiora,PVC,150.0,1996.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,14.2
+173545,Flaxton Road,Rangiora,PVC,150.0,1993.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,14.1
+173621,High Street,Rangiora,PVC,200.0,1996.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,14.0
+189177,Ohoka Road,Kaiapoi,PE - HIGH DENSITY,40.0,1978.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,13.6
+188589,Tram Road,Mandeville,PVC,65.0,1998.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,13.6
+170780,King Street,Rangiora,PVC,100.0,1989.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,13.4
+171531,High Street,Rangiora,PVC,150.0,1989.0,Condition Data Unavailable,AA-2,2.2,4,8.8,Prio 2 – hoch,13.3
+187012,Ohoka Road,Kaiapoi,PE - HIGH DENSITY,40.0,1978.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,13.3
+171390,Kippenberger Avenue,Rangiora,PVC,50.0,1996.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,13.1
+171378,High Street,Rangiora,PVC,200.0,1989.0,Condition Data Unavailable,AA-2,2.2,4,8.8,Prio 2 – hoch,12.9
+171249,Ashley Street,Rangiora,PVC,150.0,1991.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,12.9
+170867,King Street,Rangiora,PVC,300.0,1993.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,12.9
+192739,Kings Avenue,Waikuku Beach,PVC,150.0,1992.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,12.7
+171983,Queen Street,Rangiora,PVC,100.0,1995.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,11.3
+173431,Blackett Street,Rangiora,PVC-U,165.0,2005.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,10.5
+171100,Percival Street,Rangiora,PVC,150.0,2006.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,9.6
+172122,Oxford Road,Rangiora,PVC,150.0,2006.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,8.6
+171652,High Street,Rangiora,PVC,200.0,1989.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,8.1
+190470,Two Chain Road,Mandeville,PVC,200.0,2005.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,7.9
+189134,Park Terrace,Waikuku Beach,PVC,150.0,1992.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,7.8
+191705,Williams Street And Dale Street,Kaiapoi,PVC,200.0,2003.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,7.4
+172579,High Street,Rangiora,PVC,200.0,1989.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,6.7
+172568,High Street,Rangiora,PVC,100.0,2002.0,Condition Data Unavailable,AA-2,2.2,4,8.8,Prio 2 – hoch,5.9
+173619,Flaxton Road,Rangiora,PVC,150.0,1998.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,5.7
+188535,Waikuku Beach Road,Waikuku Beach,PVC,150.0,1992.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,5.0
+171980,High Street,Rangiora,PVC,200.0,1996.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,4.8
+171827,Oxford Road,Rangiora,PVC,200.0,2006.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,4.4
+172181,Queen Street,Rangiora,PVC,100.0,1995.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,4.0
+173530,Kippenberger Avenue,Rangiora,PVC,200.0,1997.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,3.8
+171077,Oxford Road,Rangiora,PVC,200.0,2006.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,3.1
+171595,High Street,Rangiora,PVC,200.0,1996.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,2.9
+192304,Garrymere Wtp - 50Mm Pvc Rising Main,Garrymere,PVC,50.0,1992.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,2.7
+188701,Williams Street,Kaiapoi,PVC,100.0,2003.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,2.6
+173529,High Street,Rangiora,PVC,200.0,1996.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,2.5
+170699,King Street - Main Split,Rangiora,PVC,100.0,1989.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,2.1
+173062,King Street - Main Split,Rangiora,PVC,100.0,1989.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,2.1
+171438,High Street,Rangiora,PVC,200.0,1989.0,Condition Data Unavailable,AA-2,2.2,4,8.8,Prio 2 – hoch,2.0
+172484,Northbrook Road,Rangiora,PVC,50.0,2004.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,2.0
+172919,Northbrook Road,Rangiora,PVC,100.0,2004.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,1.9
+192653,Sewell Street,Kaiapoi,PVC,50.0,2004.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,1.8
+172222,High Street,Rangiora,PVC,200.0,1997.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,1.2
+172872,Ellis Road,Rangiora,DUCTILE IRON,300.0,2015.0,1 Very Good,AA-1,2.2,4,8.8,Prio 2 – hoch,1.1
+171191,Flaxton Road,Rangiora,PVC,150.0,1998.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,1.0
+171477,High Street,Rangiora,PVC,200.0,1996.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,0.8
+190469,Two Chain Road,Mandeville,PVC,150.0,2005.0,Condition Data Unavailable,AA-1,2.2,4,8.8,Prio 2 – hoch,0.6
+188236,Kiri Kiri Road,Oxford No 1,PVC,80.0,1976.0,4 Poor,A-1,2.8,3,8.4,Prio 2 – hoch,362.2
+188121,Tram Road,Mandeville,ALKATHENE,50.0,1996.0,4 Poor,A-1,2.8,3,8.4,Prio 2 – hoch,336.2
+171219,Northbrook Road,Rangiora,ASBESTOS CEMENT,50.0,1963.0,Condition Data Unavailable,B,4.2,2,8.4,Prio 2 – hoch,243.7
+172100,Church Street,Rangiora,ASBESTOS CEMENT,150.0,1964.0,Condition Data Unavailable,B,4.2,2,8.4,Prio 2 – hoch,154.7
+173360,Ivory Street,Rangiora,ASBESTOS CEMENT,100.0,1958.0,3 Moderate - Average,B,4.2,2,8.4,Prio 2 – hoch,104.2
+171791,Johns Road,Rangiora,ASBESTOS CEMENT,100.0,1963.0,3 Moderate - Average,B,4.2,2,8.4,Prio 2 – hoch,99.1
+173589,Ivory Street,Rangiora,ASBESTOS CEMENT,100.0,1958.0,3 Moderate - Average,B,4.2,2,8.4,Prio 2 – hoch,59.2
+173436,Water Supply Pipe Network Main.  150Mm Asbestos Outside Skatepark.  45 Church Street Rangiora.,Rangiora,ASBESTOS CEMENT,150.0,1964.0,Condition Data Unavailable,B,4.2,2,8.4,Prio 2 – hoch,58.8
+172677,West Belt,Rangiora,ASBESTOS CEMENT,100.0,1958.0,Condition Data Unavailable,B,4.2,2,8.4,Prio 2 – hoch,56.0
+173435,Water Supply Pipe Network Main.  150Mm Asbestos Outside Dudley Pool.  45 Church Street Rangiora.,Rangiora,ASBESTOS CEMENT,150.0,1964.0,Condition Data Unavailable,B,4.2,2,8.4,Prio 2 – hoch,55.9
+171545,East Belt,Rangiora,ASBESTOS CEMENT,100.0,1955.0,Condition Data Unavailable,B,4.2,2,8.4,Prio 2 – hoch,53.6
+171151,Johns Road,Rangiora,ASBESTOS CEMENT,150.0,1963.0,Condition Data Unavailable,B,4.2,2,8.4,Prio 2 – hoch,51.2
+173123,West Belt,Rangiora,ASBESTOS CEMENT,100.0,1958.0,Condition Data Unavailable,B,4.2,2,8.4,Prio 2 – hoch,48.0
+171852,Water Supply Pipe Network Main.  Pipe From Church Street Into Vehicle Entrance To Dudley Pool Car Park.  45 Church Street Rangiora.,Rangiora,ASBESTOS CEMENT,150.0,1964.0,Condition Data Unavailable,B,4.2,2,8.4,Prio 2 – hoch,27.4
+171605,West Belt,Rangiora,ASBESTOS CEMENT,100.0,1958.0,Condition Data Unavailable,B,4.2,2,8.4,Prio 2 – hoch,22.7
+171776,Church Street,Rangiora,ASBESTOS CEMENT,150.0,1964.0,Condition Data Unavailable,B,4.2,2,8.4,Prio 2 – hoch,20.9
+173287,West Belt,Rangiora,ASBESTOS CEMENT,100.0,1958.0,Condition Data Unavailable,B,4.2,2,8.4,Prio 2 – hoch,20.3
+172865,Ivory Street,Rangiora,ASBESTOS CEMENT,100.0,1958.0,Condition Data Unavailable,B,4.2,2,8.4,Prio 2 – hoch,14.0
+171879,White Street,Rangiora,ASBESTOS CEMENT,100.0,1964.0,Condition Data Unavailable,B,4.2,2,8.4,Prio 2 – hoch,6.0
+173510,Ayers Street,Rangiora,STEEL SPIRAL RIVETTED,150.0,1930.0,Condition Data Unavailable,B,4.2,2,8.4,Prio 2 – hoch,3.5
+171878,Johns Road,Rangiora,ASBESTOS CEMENT,100.0,1963.0,2 Good,B,4.0,2,8.0,Prio 2 – hoch,138.9
+187297,Depot Road,Oxford No 1,PVC,25.0,1975.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,565.8
+187088,Cust Road,Cust,PVC,50.0,1979.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,563.8
+187342,Cust Road,Cust,PVC,50.0,1979.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,524.5
+187151,Mountain Road,Oxford No 2,PE - LOW DENSITY,25.0,1990.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,494.1
+186888,Woodside Road,Oxford No 2,PE - LOW DENSITY,25.0,1990.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,461.2
+188142,Woodside Road,Oxford No 2,ALKATHENE,32.0,1990.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,410.0
+188129,Depot Road,Oxford No 1,PVC,80.0,1975.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,400.8
+187312,Carleton Road,Oxford No 2,PVC,25.0,1985.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,378.6
+186883,Horns Road,Oxford No 2,PVC,32.0,1985.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,370.6
+188517,Chinnerys Road,Woodend,PVC,50.0,1985.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,357.5
+187298,Mcphedrons Rd,Oxford No 1,PVC,80.0,1975.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,349.8
+188073,Mcphedrons Rd,Oxford No 1,PVC,80.0,1975.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,348.1
+188807,Main North Rd (Sh 1),Woodend,PVC,50.0,1978.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,340.5
+192199,Cust Road,Cust,PVC,50.0,1979.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,328.8
+186884,Horns Road,Oxford No 2,PVC,32.0,1985.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,312.4
+187055,Mcphedrons Rd,Oxford No 1,PVC,80.0,1975.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,302.4
+187452,Cust Road,Cust,PVC,50.0,1979.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,283.6
+188130,Depot Road,Oxford No 1,PVC,80.0,1975.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,259.9
+187130,Mcphedrons Rd,Oxford No 1,PVC,80.0,1975.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,259.9
+192643,Gardiners Road Cust.,Summerhill,PVC,40.0,1973.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,229.8
+171717,Albert Street,Rangiora,PVC,50.0,1971.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,209.5
+172207,Durham Street,Rangiora,PVC,50.0,1979.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,208.6
+189611,Horns Road,Oxford No 2,PVC,25.0,1985.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,195.4
+187631,Powells Road,Oxford No 2,PVC,65.0,1985.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,190.3
+188631,Somerset Drive,Oxford No 2,PVC,150.0,1985.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,182.1
+188883,Bay Road,Oxford No 2,PVC,150.0,1985.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,180.3
+171699,South Belt,Rangiora,PVC,50.0,1970.0,3 Moderate - Average,A-1,2.6,3,7.8,Prio 2 – hoch,172.8
+187149,Horns Road,Oxford No 2,PVC,25.0,1985.0,3 Moderate - Average,A-1,2.6,3,7.8,Prio 2 – hoch,170.6
+171104,Lineside Road,Rangiora,PVC,150.0,1982.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,162.2
+171168,High Street,Rangiora,PVC,50.0,1967.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,155.6
+188202,Powells Road,Oxford No 2,PVC,65.0,1985.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,150.0
+188291,Chinnerys Road,Woodend,PVC,50.0,1985.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,141.8
+188143,Woodside Road,Oxford No 2,PE - LOW DENSITY,25.0,1990.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,138.9
+171670,Ashley Street,Rangiora,PVC,50.0,1983.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,133.2
+188206,Bay Road,Oxford No 2,PVC,150.0,1985.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,128.0
+187329,Somerset Drive,Oxford No 2,PVC,150.0,1985.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,120.2
+187150,Horns Road,Oxford No 2,PVC,25.0,1985.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,117.5
+189207,Somerset Drive,Oxford No 2,PVC,150.0,1985.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,100.2
+188583,Chinnerys Road,Woodend,PVC,50.0,1985.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,99.5
+188816,Chinnerys Road,Woodend,PVC,50.0,1985.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,97.0
+188394,Somerset Drive,Oxford No 2,PVC,150.0,1985.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,91.5
+188131,Mcphedrons Rd,Oxford No 1,PVC,80.0,1975.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,91.3
+189012,Somerset Drive,Oxford No 2,PVC,150.0,1985.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,89.9
+170841,High Street,Rangiora,PVC,50.0,1975.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,44.9
+171850,High Street,Rangiora,PVC,50.0,1975.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,41.3
+188588,Main North Rd (Sh1) (Wnd-Amb),Woodend,PVC,150.0,1978.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,39.2
+188203,Powells Road,Oxford No 2,PVC,65.0,1985.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,30.7
+189582,Depot Road,Oxford No 1,PVC,80.0,1976.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,27.0
+190085,Depot Road,Oxford No 1,PVC,80.0,1975.0,Condition Data Unavailable,A-0,2.6,3,7.8,Prio 2 – hoch,23.5
+192607,Eders Road,Woodend,PVC,100.0,1979.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,23.1
+187779,Bay Road,Oxford No 2,PVC,150.0,1985.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,22.2
+173473,Fernside Road,Rangiora,STEEL CONCRETE LINED,550.0,2011.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,20.0
+171528,West Belt,Rangiora,PVC,50.0,1986.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,17.3
+172282,Lineside Road,Rangiora,Steel,750.0,2011.0,Condition Data Unavailable,A-2,2.6,3,7.8,Prio 2 – hoch,15.0
+172280,Raven Street North,Rangiora,Steel,750.0,2011.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,14.2
+171849,West Belt,Rangiora,PVC,50.0,1975.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,13.8
+173443,Alfred Street,Rangiora,GALVANISED STEEL,50.0,2008.0,Condition Data Unavailable,A-2,2.6,3,7.8,Prio 2 – hoch,11.9
+187393,Depot Road,Oxford No 1,PVC,80.0,1976.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,11.8
+191085,Somerset Drive,Oxford No 2,PVC,150.0,1985.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,11.8
+172283,Townsend Road,Rangiora,STEEL CONCRETE LINED,550.0,2011.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,7.3
+189136,Park Terrace,Waikuku Beach,PVC,50.0,1985.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,4.9
+189003,Somerset Drive,Oxford No 2,PVC,150.0,1985.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,4.9
+172546,Fernside Road,Rangiora,STEEL CONCRETE LINED,550.0,2011.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,3.8
+188398,Bay Road,Oxford No 2,PVC,150.0,1985.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,3.8
+172547,Fernside Road,Rangiora,STEEL CONCRETE LINED,550.0,2011.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,3.2
+172148,Fernside Road,Rangiora,STEEL CONCRETE LINED,550.0,2011.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,3.0
+173490,Pentecost Road,Rangiora,STEEL CONCRETE LINED,507.0,2011.0,Condition Data Unavailable,A-2,2.6,3,7.8,Prio 2 – hoch,2.9
+188903,Bush Road,Oxford No 2,PVC,32.0,1984.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,2.7
+173475,Raven Street North,Rangiora,STEEL CONCRETE LINED,550.0,2011.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,2.5
+188235,Depot Road,Oxford No 1,PVC,80.0,1976.0,Condition Data Unavailable,A-1,2.6,3,7.8,Prio 2 – hoch,2.4
+188101,Woodside Road,Oxford,ASBESTOS CEMENT,200.0,1968.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,588.4
+190117,Rockford Road,Oxford No 1,ASBESTOS CEMENT,150.0,1975.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,577.3
+189587,Rockford Road,Oxford No 1,ASBESTOS CEMENT,100.0,1976.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,548.4
+187622,Waimakariri Gorge Road,Oxford No 1,ASBESTOS CEMENT,100.0,1976.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,517.9
+188128,"View Hill Reservoir - Site Inflow Line - Off Rockford Road, Oxford",Oxford No 1,ASBESTOS CEMENT,150.0,1975.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,515.8
+187051,"View Hill Reservoir - Site Outflow Line - Off Rockford Rd, Oxford",Oxford No 1,ASBESTOS CEMENT,150.0,1975.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,515.5
+187124,Waimakariri Gorge Road,Oxford No 1,ASBESTOS CEMENT,100.0,1976.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,497.5
+187049,Eagle Hill Road,Oxford No 1,ASBESTOS CEMENT,100.0,1976.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,476.1
+187810,Woodside Road,Oxford,ASBESTOS CEMENT,200.0,1968.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,469.0
+187291,View Hill Reservoir - Site Discharge Pipe,Oxford No 1,ASBESTOS CEMENT,150.0,1975.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,441.9
+187908,Eagle Hill Road,Oxford No 1,ASBESTOS CEMENT,100.0,1976.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,386.2
+191337,Woodside Road,Oxford,ASBESTOS CEMENT,200.0,1968.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,381.9
+187288,Rockford Road,Oxford No 1,ASBESTOS CEMENT,150.0,1975.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,333.6
+188100,Woodside Road,Oxford,ASBESTOS CEMENT,200.0,1968.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,327.3
+171693,Kippenberger Avenue,Rangiora,ASBESTOS CEMENT,100.0,1979.0,3 Moderate - Average,B,3.8,2,7.6,Prio 2 – hoch,276.0
+188070,Rockford Road,Oxford No 1,ASBESTOS CEMENT,100.0,1976.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,271.2
+186944,Dale Street,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,260.9
+188605,Fuller Street,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,247.7
+187198,Coups Terrace,Kaiapoi,ASBESTOS CEMENT,100.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,224.7
+189170,Woodend Road,Woodend,ASBESTOS CEMENT,200.0,1976.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,209.1
+187969,Woodside Road,Oxford,ASBESTOS CEMENT,200.0,1968.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,206.6
+188149,Woodside Road,Oxford,ASBESTOS CEMENT,200.0,1968.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,187.5
+192958,Rockford Road,Oxford No 1,ASBESTOS CEMENT,150.0,1975.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,185.3
+187319,Fuller Street,Kaiapoi,ASBESTOS CEMENT,250.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,184.8
+188005,Williams Street,Kaiapoi,ASBESTOS CEMENT,150.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,183.9
+187727,Woodside Road,Oxford,ASBESTOS CEMENT,200.0,1968.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,171.8
+187386,Eagle Hill Road,Oxford No 1,ASBESTOS CEMENT,100.0,1976.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,162.5
+190486,Woodside Road,Oxford,ASBESTOS CEMENT,200.0,1968.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,162.2
+191326,Courtenay Drive,Kaiapoi,ASBESTOS CEMENT,200.0,1979.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,155.0
+171684,Newnham Street,Rangiora,ASBESTOS CEMENT,100.0,1970.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,152.1
+187723,High Street Oxford.,Oxford,ASBESTOS CEMENT,100.0,1968.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,151.3
+191818,Fuller Street,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,145.3
+170793,South Belt,Rangiora,ASBESTOS CEMENT,150.0,1981.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,139.8
+186957,Bridge Street,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,138.8
+190670,Woodside Road,Oxford,ASBESTOS CEMENT,200.0,1968.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,137.5
+189162,Sidey Quay,Kaiapoi,ASBESTOS CEMENT,100.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,127.6
+187834,Rangiora Woodend Road,Woodend,ASBESTOS CEMENT,200.0,1975.0,3 Moderate - Average,B,3.8,2,7.6,Prio 2 – hoch,127.3
+187364,Bridge Street,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,125.4
+187072,Main Street,Oxford,ASBESTOS CEMENT,100.0,1970.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,122.5
+193096,Fuller Street,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,120.8
+187568,Dohrmans Road,Oxford,ASBESTOS CEMENT,100.0,1968.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,118.5
+187428,Woodend Road,Woodend,ASBESTOS CEMENT,200.0,1976.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,118.5
+187320,Ranfurly Street,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,117.5
+187233,Hodgson Avenue,Kaiapoi,ASBESTOS CEMENT,250.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,116.3
+189189,Hilton Street,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,115.9
+186954,Sidey Quay,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,115.4
+187993,Smith Street,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,115.2
+186978,Main North Road,Kaiapoi,ASBESTOS CEMENT,150.0,1986.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,111.7
+186867,Eagle Hill Road,Oxford No 1,ASBESTOS CEMENT,100.0,1976.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,111.6
+188258,Woodend Road,Woodend,ASBESTOS CEMENT,200.0,1976.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,110.4
+186951,Ranfurly Street,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,109.8
+186942,Williams Street,Kaiapoi,ASBESTOS CEMENT,100.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,108.0
+187899,Ohoka Road,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,107.8
+189565,Burnett Street,Oxford,ASBESTOS CEMENT,100.0,1970.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,107.6
+172516,Flaxton Road,Rangiora,ASBESTOS CEMENT,150.0,1993.0,5 Very Poor,B,3.8,2,7.6,Prio 2 – hoch,103.8
+186946,Davie Street,Kaiapoi,ASBESTOS CEMENT,100.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,103.5
+187886,Bridge Street,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,103.2
+187573,High Street,Oxford,ASBESTOS CEMENT,100.0,1970.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,102.9
+187885,Ranfurly Street,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,102.4
+187167,School Road,Woodend,ASBESTOS CEMENT,150.0,1976.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,102.0
+188795,Rangiora Woodend Road,Woodend,ASBESTOS CEMENT,200.0,1975.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,100.2
+173880,Oxford Road,Rangiora,ASBESTOS CEMENT,100.0,1974.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,100.2
+188794,Rangiora Woodend Road,Woodend,ASBESTOS CEMENT,200.0,1975.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,99.4
+193085,Sidey Quay,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,99.3
+187383,Peraki Street,Kaiapoi,ASBESTOS CEMENT,250.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,96.8
+187255,Ranfurly Street,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,95.6
+187115,Ohoka Road,Kaiapoi,ASBESTOS CEMENT,200.0,1977.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,94.1
+187262,Hilton Street,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,90.0
+187202,Dale Street,Kaiapoi,ASBESTOS CEMENT,200.0,1980.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,87.2
+171183,Kippenberger Avenue,Rangiora,ASBESTOS CEMENT,100.0,1979.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,86.8
+187938,Williams Street,Kaiapoi,ASBESTOS CEMENT,150.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,84.5
+187355,Cass Street,Kaiapoi,ASBESTOS CEMENT,250.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,84.3
+190518,Stone Street,Kaiapoi,ASBESTOS CEMENT,200.0,1979.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,82.0
+186853,Peraki Street,Kaiapoi,ASBESTOS CEMENT,250.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,81.9
+171844,Harrod Place,Rangiora,ASBESTOS CEMENT,100.0,1984.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,79.0
+189337,Woodside Road,Oxford,ASBESTOS CEMENT,200.0,1968.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,78.9
+186928,Totara Drive,Oxford,ASBESTOS CEMENT,100.0,1981.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,78.1
+187105,Peraki Street,Kaiapoi,ASBESTOS CEMENT,250.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,76.9
+190494,Cheapside Street,Oxford,ASBESTOS CEMENT,100.0,1968.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,75.0
+187247,.  182 Ohoka Road Kaiapoi (Near Intersection Of Ohoka And Williams Street).,Kaiapoi,ASBESTOS CEMENT,200.0,1977.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,73.0
+186949,Smith Street,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,72.7
+187349,Ranfurly Street,Kaiapoi,ASBESTOS CEMENT,200.0,1980.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,72.1
+192608,Fuller Street,Kaiapoi,ASBESTOS CEMENT,250.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,71.3
+187354,Cass Street,Kaiapoi,ASBESTOS CEMENT,250.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,70.8
+188371,Ashley Place,Kaiapoi,ASBESTOS CEMENT,250.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,70.3
+187464,Williams Street,Kaiapoi,ASBESTOS CEMENT,150.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,69.1
+187197,Williams Street,Kaiapoi,ASBESTOS CEMENT,150.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,69.1
+186971,Stone Street,Kaiapoi,ASBESTOS CEMENT,200.0,1979.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,69.1
+187484,Kalmia Place,Kaiapoi,ASBESTOS CEMENT,100.0,1975.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,68.1
+189220,Ranfurly Street,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,66.0
+192833,Bridge Street,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,64.7
+189187,Davie Street,Kaiapoi,ASBESTOS CEMENT,250.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,64.6
+189569,Courtenay Drive,Kaiapoi,ASBESTOS CEMENT,200.0,1979.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,64.0
+187235,Peraki Street,Kaiapoi,ASBESTOS CEMENT,250.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,63.2
+187955,Woodend Road,Woodend,ASBESTOS CEMENT,200.0,1976.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,63.1
+187203,Ranfurly Street,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,63.1
+188004,Williams Street,Kaiapoi,ASBESTOS CEMENT,150.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,62.5
+187232,Fuller Street,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,60.4
+187882,Williams Street,Kaiapoi,ASBESTOS CEMENT,150.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,59.3
+187249,Peraki Street,Kaiapoi,ASBESTOS CEMENT,250.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,59.2
+188378,Hilton Street,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,59.1
+186842,Cass Street,Kaiapoi,ASBESTOS CEMENT,150.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,58.3
+188534,Kings Avenue,Waikuku Beach,ASBESTOS CEMENT,100.0,1977.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,57.5
+173286,Oxford Road,Rangiora,ASBESTOS CEMENT,100.0,1974.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,56.7
+186825,Fuller Street,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,56.2
+187375,Akaroa Street,Kaiapoi,ASBESTOS CEMENT,100.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,55.4
+187023,Akaroa Street,Kaiapoi,ASBESTOS CEMENT,250.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,54.9
+187487,Williams Street,Kaiapoi,ASBESTOS CEMENT,150.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,53.5
+187648,Rata Street,Oxford,ASBESTOS CEMENT,100.0,1980.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,53.1
+188854,Ranfurly Street,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,50.7
+188420,Williams Street,Kaiapoi,ASBESTOS CEMENT,150.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,50.5
+187175,Collins Drive,Waikuku Beach,ASBESTOS CEMENT,150.0,1977.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,50.0
+187250,Peraki Street,Kaiapoi,ASBESTOS CEMENT,250.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,49.7
+187382,Peraki Street,Kaiapoi,ASBESTOS CEMENT,250.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,49.4
+187200,Sewell Street,Kaiapoi,ASBESTOS CEMENT,250.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,48.5
+186965,Williams Street,Kaiapoi,ASBESTOS CEMENT,150.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,47.3
+188953,Kings Avenue,Waikuku Beach,ASBESTOS CEMENT,100.0,1977.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,46.0
+187887,Bridge Street,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,44.7
+188617,Woodside Road,Oxford,ASBESTOS CEMENT,200.0,1968.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,42.7
+188940,Courtenay Drive,Kaiapoi,ASBESTOS CEMENT,200.0,1979.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,41.6
+190731,Williams Street,Kaiapoi,ASBESTOS CEMENT,100.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,40.9
+173544,White Street 150Mm Ac,Rangiora,ASBESTOS CEMENT,150.0,1981.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,40.1
+187621,Woodstock Road,Oxford No 1,ASBESTOS CEMENT,100.0,1976.0,3 Moderate - Average,B,3.8,2,7.6,Prio 2 – hoch,40.0
+188923,Woodside Road,Oxford,ASBESTOS CEMENT,200.0,1968.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,37.5
+187201,Smith Street,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,37.5
+170701,Johns Road,Rangiora,ASBESTOS CEMENT,150.0,1974.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,35.6
+192671,Williams Street,Kaiapoi,ASBESTOS CEMENT,150.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,33.1
+187538,Peraki Street,Kaiapoi,ASBESTOS CEMENT,250.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,31.7
+190358,Courtenay Drive,Kaiapoi,ASBESTOS CEMENT,200.0,1979.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,31.1
+173745,Oxford Road,Rangiora,ASBESTOS CEMENT,100.0,1974.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,30.3
+188416,Porter Place,Kaiapoi,ASBESTOS CEMENT,250.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,30.1
+188402,Chinnerys Road,Woodend,ASBESTOS CEMENT,250.0,1975.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,30.1
+188798,Rangiora Woodend Road,Woodend,ASBESTOS CEMENT,200.0,1975.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,28.7
+171457,White Street,Rangiora,ASBESTOS CEMENT,200.0,1981.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,27.9
+191941,Fuller Street And Akaroa Street,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,22.8
+171580,Blackett Street,Rangiora,ASBESTOS CEMENT,100.0,1972.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,22.5
+188026,Adderley Terrace,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,22.4
+171525,River Road,Rangiora,ASBESTOS CEMENT,300.0,1979.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,22.2
+187896,Peraki Street,Kaiapoi,ASBESTOS CEMENT,250.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,22.0
+192836,Williams Street,Kaiapoi,ASBESTOS CEMENT,150.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,21.1
+187986,Old North Road,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,20.9
+170879,Oxford Road,Rangiora,ASBESTOS CEMENT,100.0,1974.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,20.5
+189946,Fuller Street,Kaiapoi,ASBESTOS CEMENT,250.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,19.5
+188981,Peraki Street,Kaiapoi,ASBESTOS CEMENT,250.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,19.4
+187547,Sidey Quay,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,18.9
+190142,Stone Street,Kaiapoi,ASBESTOS CEMENT,200.0,1977.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,18.1
+172549,Ayers Street,Rangiora,ASBESTOS CEMENT,150.0,1975.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,17.6
+190324,Smith Street,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,3 Moderate - Average,B,3.8,2,7.6,Prio 2 – hoch,17.3
+192166,Fuller Street,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,16.6
+187848,Main North Rd (Sh1) (Wnd-Amb),Woodend,ASBESTOS CEMENT,150.0,1976.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,16.5
+172286,Ayers Street,Rangiora,ASBESTOS CEMENT,250.0,1975.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,16.5
+193904,"Water Network Main 150Mm - Woodend Road, W - Woodend",Woodend,ASBESTOS CEMENT,150.0,1976.0,3 Moderate - Average,,3.8,2,7.6,Prio 2 – hoch,16.3
+193905,"Water Network Main 200Mm - Woodend Road, W - Woodend",Woodend,ASBESTOS CEMENT,200.0,1976.0,3 Moderate - Average,,3.8,2,7.6,Prio 2 – hoch,16.2
+187107,Ohoka Road,Kaiapoi,ASBESTOS CEMENT,200.0,1982.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,16.0
+187093,Camleigh Close,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,16.0
+171553,Kingsbury Avenue,Rangiora,ASBESTOS CEMENT,200.0,1981.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,15.9
+188638,Woodend Road,Woodend,ASBESTOS CEMENT,200.0,1976.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,15.5
+187552,Courtenay Drive,Kaiapoi,ASBESTOS CEMENT,200.0,1979.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,14.7
+191129,Williams Street,Kaiapoi,ASBESTOS CEMENT,150.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,14.3
+187903,Ohoka Road,Kaiapoi,ASBESTOS CEMENT,200.0,1977.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,13.8
+187379,Ohoka Road,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,13.2
+191802,Ohoka Road,Kaiapoi,ASBESTOS CEMENT,200.0,1977.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,12.4
+191799,.  182 Ohoka Road Kaiapoi (Near Intersection Of Ohoka And Williams Street).,Kaiapoi,ASBESTOS CEMENT,200.0,1977.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,12.0
+187363,Camleigh Close,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,12.0
+174221,"Main 100Mm - 215 High Street, Water Rangiora",Rangiora,ASBESTOS CEMENT,100.0,1981.0,Condition Data Unavailable,,3.8,2,7.6,Prio 2 – hoch,11.5
+188006,Princess Place,Kaiapoi,ASBESTOS CEMENT,100.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,10.9
+192600,Ohoka Road,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,10.7
+189336,Fuller Street,Kaiapoi,ASBESTOS CEMENT,250.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,9.7
+186948,Sewell Street,Kaiapoi,ASBESTOS CEMENT,250.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,9.4
+172156,Kippenberger Avenue,Rangiora,ASBESTOS CEMENT,50.0,1979.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,9.4
+191801,High Street Oxford.,Oxford,ASBESTOS CEMENT,100.0,1968.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,9.3
+189904,Williams Street,Kaiapoi,ASBESTOS CEMENT,100.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,8.7
+191216,Fuller Street,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,8.1
+174222,"Main 100Mm - 215 High Street, Water Rangiora",Rangiora,ASBESTOS CEMENT,100.0,1981.0,Condition Data Unavailable,,3.8,2,7.6,Prio 2 – hoch,7.3
+191993,Ohoka Road And Akaroa Street,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,7.3
+171779,Northbrook Road,Rangiora,GALVANISED STEEL,50.0,1963.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,7.2
+187108,Ohoka Road,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,7.1
+190852,Hilton Street,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,6.6
+188797,Rangiora Woodend Road,Woodend,ASBESTOS CEMENT,200.0,1975.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,6.0
+193018,Williams Street,Kaiapoi,ASBESTOS CEMENT,150.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,5.7
+171184,Railway Road,Rangiora,ASBESTOS CEMENT,100.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,5.4
+191167,View Hill Reservoir - Site Outflow Line,Oxford No 1,ASBESTOS CEMENT,150.0,1975.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,3.8
+190262,View Hill Reservoir - Site Discharge Pipe,Oxford No 1,ASBESTOS CEMENT,150.0,1975.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,3.7
+190261,View Hill Reservoir - Site Inflow Line,Oxford No 1,ASBESTOS CEMENT,150.0,1975.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,3.6
+192309,Charles Street,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,3.5
+192621,Williams Street,Kaiapoi,ASBESTOS CEMENT,150.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,2.9
+171596,River Road,Rangiora,ASBESTOS CEMENT,300.0,1979.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,2.6
+192647,Williams Street,Kaiapoi,ASBESTOS CEMENT,150.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,2.2
+189588,Woodside Road,Oxford,ASBESTOS CEMENT,200.0,1968.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,2.2
+189366,Williams Street,Kaiapoi,ASBESTOS CEMENT,100.0,1984.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,2.2
+190671,Woodside Road,Oxford,ASBESTOS CEMENT,200.0,1968.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,2.1
+172550,Ayers Street,Rangiora,ASBESTOS CEMENT,150.0,1975.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,2.0
+171277,Oxford Road,Rangiora,ASBESTOS CEMENT,100.0,1974.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,1.9
+192391,Ohoka Road And Otaki Street,Kaiapoi,ASBESTOS CEMENT,100.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,1.9
+190807,Williams Street,Kaiapoi,ASBESTOS CEMENT,100.0,1984.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,1.6
+187316,Commercial Road,Oxford,ASBESTOS CEMENT,200.0,1968.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,1.4
+192310,Charles Street,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,1.1
+172116,Johns Road,Rangiora,ASBESTOS CEMENT,150.0,1972.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,1.0
+192622,Williams Street,Kaiapoi,ASBESTOS CEMENT,100.0,1984.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,0.7
+188900,Rata Street,Oxford,ASBESTOS CEMENT,100.0,1980.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,0.7
+189612,Willock Street,Kaiapoi,ASBESTOS CEMENT,100.0,1978.0,Condition Data Unavailable,B,3.8,2,7.6,Prio 2 – hoch,0.5
+173273,Flaxton Road,Rangiora,PE - MEDIUM DENSITY,63.0,2004.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,845.0
+173010,Flaxton Road,Rangiora,PE - MEDIUM DENSITY,63.0,2004.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,595.7
+172548,Fernside Road,Rangiora,PVC-U,500.0,2011.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,462.7
+190258,Intersection Pegasus Boulevard And Mapleham Dr Pegasus.,Woodend,PVC-U,225.0,2012.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,374.7
+188868,Mcphedrons Rd,Oxford No 1,PVC,80.0,1975.0,2 Good,A-1,2.4,3,7.2,Prio 2 – hoch,313.4
+190175,Pegasus Boulevard,Woodend,PVC,150.0,2009.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,307.2
+172766,Water Supply Pipe Network Main.  26-52 Percival Street Rangiora.,Rangiora,PVC-U,150.0,2012.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,257.4
+172310,Water Supply Pipe Network Main.  4-26 Percival Street Rangiora.,Rangiora,PVC-U,150.0,2012.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,239.6
+171923,Ashley Street,Rangiora,PVC-U,150.0,2014.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,219.2
+194576,Wards Road,Mandeville,PVC-U,100.0,2012.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,215.3
+172562,Kippenberger Avenue,Rangiora,PVC-U,200.0,2012.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,199.0
+173648,Kippenberger Avenue,Rangiora,PVC-U,200.0,2012.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,181.4
+187042,Roscrea Place,Mandeville,ALKATHENE,50.0,1996.0,2 Good,A-1,2.4,3,7.2,Prio 2 – hoch,179.1
+192377,Pegasus Boulevard,Woodend,PVC,150.0,2009.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,161.1
+172012,Ashley Street,Rangiora,PVC-U,150.0,2014.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,157.5
+172374,Oxford Road,Rangiora,PVC-U,150.0,2009.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,152.3
+171577,Ashley Street,Rangiora,PVC-U,150.0,2014.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,145.8
+190242,Davis Road,Summerhill,PVC-U,80.0,2012.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,139.7
+171919,Ashley Street,Rangiora,PVC-U,150.0,2014.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,137.4
+173608,Flaxton Road,Rangiora,PVC-U,200.0,2013.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,126.4
+187990,Hilton Street,Kaiapoi,PE - MEDIUM DENSITY,63.0,2001.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,116.8
+174104,Water Supply Pipe Network Main.  109 Kippenberger Avenue Rangiora,Rangiora,PVC-U,200.0,2012.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,101.8
+174109,Water Supply Pipe Network Main.  121 Kippenberger Avenue Rangiora,Rangiora,PVC-U,200.0,2012.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,101.3
+189154,Main Street,Oxford,PE - MEDIUM DENSITY,63.0,2002.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,88.4
+174106,Water Supply Pipe Network Main.  101 Kippenberger Avenue Rangiora,Rangiora,PVC-U,200.0,2012.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,73.7
+171829,Ashley Street,Rangiora,PVC-U,150.0,2014.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,73.0
+174105,Water Supply Pipe Network Main.  133 Kippenberger Avenue Rangiora,Rangiora,PVC-U,200.0,2012.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,73.0
+174108,Water Supply Pipe Network Main.  91 Kippenberger Avenue Rangiora,Rangiora,PVC-U,200.0,2012.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,72.1
+172561,Water Supply Pipe Network Main.  85 Kippenberger Avenue Rangiora,Rangiora,PVC-U,200.0,2012.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,71.3
+173465,Fernside Road,Rangiora,PVC-U,500.0,2011.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,69.4
+173448,Oxford Road,Rangiora,PVC-U,150.0,2009.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,58.1
+172758,Kippenberger Avenue,Rangiora,PVC-U,200.0,2012.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,41.7
+171575,West Belt,Rangiora,PVC-U,200.0,2014.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,32.3
+173583,Northbrook Road,Rangiora,PE - MEDIUM DENSITY,200.0,2004.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,27.5
+174107,Water Supply Pipe Network Main.  95 Kippenberger Avenue Rangiora,Rangiora,PVC-U,200.0,2012.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,25.4
+171922,Ashley Street,Rangiora,PVC-U,150.0,2014.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,24.0
+174103,Water Supply Pipe Network Main.  139 Kippenberger Avenue Rangiora,Rangiora,PVC-U,200.0,2012.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,23.5
+173084,High Street,Rangiora,PVC,200.0,1989.0,1 Very Good,AA-2,1.8,4,7.2,Prio 2 – hoch,23.2
+172532,Oxford Road,Rangiora,PVC-U,150.0,2009.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,20.2
+171738,Flaxton Road,Rangiora,PE - MEDIUM DENSITY,63.0,2006.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,19.5
+172389,Kippenberger Avenue,Rangiora,PVC-U,200.0,2012.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,17.8
+172925,Ivory Street,Rangiora,PE - MEDIUM DENSITY,125.0,2005.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,17.5
+187231,Fuller Street,Kaiapoi,ASBESTOS CEMENT,200.0,1978.0,2 Good,B,3.6,2,7.2,Prio 2 – hoch,17.4
+189969,Beach Road,Kaiapoi,PE - MEDIUM DENSITY,100.0,2003.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,16.4
+189784,Sewell Street,Kaiapoi,PVC-U,150.0,2011.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,15.5
+190400,Williams Street,Kaiapoi,PE - MEDIUM DENSITY,63.0,2005.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,13.6
+171576,West Belt,Rangiora,PVC-U,200.0,2014.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,13.5
+170975,Johns Road,Rangiora,PVC,150.0,2010.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,13.0
+190366,Williams Street,Kaiapoi,PVC-U,375.0,2013.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,12.4
+192507,Sewell Street,Kaiapoi,PVC-U,100.0,2011.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,10.6
+173649,Kippenberger Avenue And Mcphail Avenue,Rangiora,PVC-U,200.0,2012.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,9.8
+173175,Flaxton Road,Rangiora,PVC-U,150.0,2013.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,7.8
+191019,Beach Road,Kaiapoi,PE - MEDIUM DENSITY,100.0,2003.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,7.5
+174158,"Water Network Main 150Mm - White Street, W - Rangiora",Rangiora,Steel,150.0,1981.0,4 Poor,,3.6,2,7.2,Prio 2 – hoch,7.2
+173609,Flaxton Road,Rangiora,PVC-U,200.0,2013.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,7.1
+171080,Oxford Road,Rangiora,PE - MEDIUM DENSITY,63.0,2006.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,7.0
+173779,Blackett Street,Rangiora,PVC,63.0,2011.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,6.2
+170782,Johns Road,Rangiora,PVC,150.0,2010.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,5.6
+171481,Ashley Street,Rangiora,PVC-U,150.0,2014.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,5.3
+173361,Northbrook Road,Rangiora,PE - MEDIUM DENSITY,200.0,2004.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,5.2
+194575,"Mm - West Belt, Rangiora.",Rangiora,PVC-U,100.0,2014.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,4.4
+173463,Flaxton Road,Rangiora,PVC-U,50.0,2011.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,4.4
+172764,Percival Street,Rangiora,PVC-U,100.0,2012.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,3.8
+192506,Sewell Street,Kaiapoi,PVC-U,100.0,2011.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,3.1
+172916,Northbrook Road,Rangiora,PE - MEDIUM DENSITY,63.0,2004.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,2.4
+173447,Oxford Road,Rangiora,PVC-U,150.0,2009.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,2.0
+188894,Tram Road,Mandeville,PE - MEDIUM DENSITY,63.0,2005.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,1.8
+173254,Johns Road,Rangiora,PVC,200.0,2010.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,1.8
+172483,Northbrook Road,Rangiora,PE - MEDIUM DENSITY,63.0,2004.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,1.7
+173176,Flaxton Road,Rangiora,PVC-U,200.0,2013.0,Condition Data Unavailable,AA-1,1.8,4,7.2,Prio 2 – hoch,1.2
